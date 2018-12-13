@@ -1,8 +1,8 @@
 name: blocx_flutter
 description: BlocX for Flutter.
 version: 0.0.1
-author:
-homepage:
+author: Haris Kovačević <programmerguy92@gmail.com>
+homepage: https://github.com/harisk92/blocx_flutter/
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"
